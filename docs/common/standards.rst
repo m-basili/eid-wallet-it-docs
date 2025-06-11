@@ -2,11 +2,10 @@
 
 
 Technical References
-++++++++++++++++++++
+====================
 
 This section details the technical references, grouped by scope, that are part of the current implementation profile.
 This section includes international and national standards, draft specifications, architecture references and other relevant technical documents foundational for the interoperability and the compliance with industry standards.
-
 
 
 Wallet Paradigm Frameworks
@@ -41,8 +40,8 @@ Digital Credential Data Format
     :header-rows: 0
 
     * - `SD-JWT-VC`_
-      - O. Terbu, D.Fett, B. Campbell, "SD-JWT-based Verifiable Credentials (SD-JWT VC)".
-    * - ISO18013-5
+      - O. Terbu, D.Fett, B. Campbell, "SD-JWT-based Verifiable Credentials (SD-JWT VC)", November 2024, Draft 06.
+    * - `ISO18013-5`_
       - ISO/IEC 18013-5 2020. Information technology — Personal identification — ISO-compliant driving license — Part 5: Mobile driving license (mDL) application.
 
 
@@ -66,7 +65,7 @@ Digital Credential Issuance
 
 
 Digital Credential Presentation
-----------------------------------------------
+-------------------------------
 
 .. list-table::
     :widths: 25 75
@@ -78,7 +77,7 @@ Digital Credential Presentation
       - Kasselman, P., Fett, D., Skokan, F.,  "Cross-Device Flows: Security Best Current Practice", July 2024, Draft 8.
     * - `OPENID4VC-HAIP`_
       - Lodderstedt, T., K. Yasuda, "OpenID4VC High Assurance Interoperability Profile", January 2025, Draft 1.
-    * - ISO18013-5
+    * - `ISO18013-5`_
       - ISO/IEC 18013-5 2020. Information technology — Personal identification — ISO-compliant driving license — Part 5: Mobile driving license (mDL) application.
 
 
@@ -107,7 +106,7 @@ National Data Interoperability Platform Specifications
       - "Linee Guida sull'infrastruttura tecnologica della Piattaforma Digitale Nazionale Dati per l'interoperabilità dei sistemi informativi e delle basi di dati", December 2021, Version 1.0.
 
 National Digital Identity Platform Specifications
-------------------------------------------------------
+-------------------------------------------------
 
 .. list-table::
     :widths: 25 75
